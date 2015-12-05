@@ -12,22 +12,35 @@ Technologies
 - [Cardboard SDK for Unity](https://developers.google.com/cardboard/unity/)
 
 ## How-To Use
-1. Clone this repo
+**Clone this repo**
 
-Build/Run three.js project
+Run three.js project
 
-1. `npm install` in three.js dir
-2. Put three folder onto a webserver
+1. Put three folder onto a webserver
+2. Navigate to page
 
-Build/Run Unity project
+Run/Build Unity project
 
 1. Install Unity
 2. Open Unity project
 3. Press play
+4. Build WebGL
 
-## Demo
+Build Cardboard project
+
+1. Build Android
+
+### Demo
+
+Nike+ Model
+
+### Game
 
 Nike+ "Pre" Runner
+
+### Virtual Reality
+
+Nike+ "Pre" Runner VR
 
 Resources
 ------------
