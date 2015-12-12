@@ -1,9 +1,11 @@
 ﻿#pragma strict
 
 public var fuelEarned:int;
+public var fuelText:UnityEngine.UI.Text;
 
 function Start () {
     fuelEarned = 0;
+    fuelText.text = fuelEarned.ToString ();
 }
 
 function Update () {
@@ -12,6 +14,7 @@ function Update () {
 
 function OnTriggerEnter (other:Collider) {
     fuelEarned++;
-    Debug.Log("FUEL:" + fuelEarned);
+    fuelText.text = fuelEarned.ToString ();
+    Debug.Log ("FUEL:" + fuelEarned);
     Destroy (other.gameObject);
 }

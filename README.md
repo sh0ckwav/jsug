@@ -45,6 +45,7 @@ Nike+ "Pre" Runner VR
 Resources
 ------------
 
+- [Unity 5.3 WebGL Updates](http://blogs.unity3d.com/2015/12/07/unity-5-3-webgl-updates/)
 - [Getting Started with Unity for Android](https://developers.google.com/cardboard/unity/get-started)
 - [Your Own Subway Surfer/Temple Run Like Game](http://www.thegamecontriver.com/p/your-own-subway.html)
 - [J3D](https://github.com/drojdjou/J3D)
